@@ -6,7 +6,7 @@
   <link href="https://ly66310.github.io/atom.xml" rel="self"/>
   
   <link href="https://ly66310.github.io/"/>
-  <updated>2022-05-25T05:44:25.197Z</updated>
+  <updated>2022-05-25T08:38:38.148Z</updated>
   <id>https://ly66310.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="https://ly66310.github.io/2022/05/25/ce-shi/"/>
+    <id>https://ly66310.github.io/2022/05/25/ce-shi/</id>
+    <published>2022-05-25T08:37:15.000Z</published>
+    <updated>2022-05-25T08:38:38.148Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;#乱七八糟&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="测试" scheme="https://ly66310.github.io/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+    <category term="测试1" scheme="https://ly66310.github.io/tags/%E6%B5%8B%E8%AF%951/"/>
+    
+    <category term="测试2" scheme="https://ly66310.github.io/tags/%E6%B5%8B%E8%AF%952/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
